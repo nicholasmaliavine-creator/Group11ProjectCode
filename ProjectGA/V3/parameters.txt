@@ -1,0 +1,481 @@
+
+Lookback:252
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000617
+Epochs:40
+Data Split:0.72
+Error:6034.68682441026
+
+Lookback:179
+Hidden Layers:26
+Stacks:2
+Learning Rate:0.000539
+Epochs:57
+Data Split:0.72
+Error:8095.7567469285805
+
+Lookback:149
+Hidden Layers:25
+Stacks:2
+Learning Rate:0.000424
+Epochs:63
+Data Split:0.83
+Error:5072.900766839832
+
+Lookback:304
+Hidden Layers:4
+Stacks:2
+Learning Rate:0.000414
+Epochs:94
+Data Split:0.84
+Error:6374.2887047663335
+
+Lookback:343
+Hidden Layers:25
+Stacks:2
+Learning Rate:0.000742
+Epochs:54
+Data Split:0.89
+Error:4665.401002140455
+
+Lookback:429
+Hidden Layers:9
+Stacks:2
+Learning Rate:0.000323
+Epochs:48
+Data Split:0.77
+Error:6235.742448696792
+
+Lookback:342
+Hidden Layers:23
+Stacks:2
+Learning Rate:0.000121
+Epochs:67
+Data Split:0.85
+Error:3704.7126639138164
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:431
+Hidden Layers:11
+Stacks:2
+Learning Rate:0.000395
+Epochs:68
+Data Split:0.86
+Error:6120.394942764863
+
+Lookback:297
+Hidden Layers:21
+Stacks:2
+Learning Rate:0.00099
+Epochs:84
+Data Split:0.81
+Error:3756.9459756802767
+
+Lookback:226
+Hidden Layers:1
+Stacks:2
+Learning Rate:0.000121
+Epochs:63
+Data Split:0.83
+Error:6298.666774756014
+
+Lookback:252
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.00095
+Epochs:49
+Data Split:0.85
+Error:6126.034580475688
+
+Lookback:204
+Hidden Layers:23
+Stacks:2
+Learning Rate:0.000121
+Epochs:40
+Data Split:0.72
+Error:5842.236370260902
+
+Lookback:149
+Hidden Layers:4
+Stacks:2
+Learning Rate:0.000742
+Epochs:76
+Data Split:0.76
+Error:6621.5025864321
+
+Lookback:342
+Hidden Layers:23
+Stacks:2
+Learning Rate:0.000434
+Epochs:41
+Data Split:0.85
+Error:3783.7339821887763
+
+Lookback:343
+Hidden Layers:27
+Stacks:2
+Learning Rate:0.000424
+Epochs:54
+Data Split:0.83
+Error:4996.122935775556
+
+Lookback:342
+Hidden Layers:25
+Stacks:2
+Learning Rate:0.000424
+Epochs:67
+Data Split:0.85
+Error:8228.92459906634
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:364
+Hidden Layers:28
+Stacks:2
+Learning Rate:0.00099
+Epochs:90
+Data Split:0.81
+Error:3513.578215744924
+
+Lookback:103
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000456
+Epochs:89
+Data Split:0.87
+Error:6458.043556764126
+
+Lookback:226
+Hidden Layers:1
+Stacks:2
+Learning Rate:0.000991
+Epochs:63
+Data Split:0.81
+Error:6706.508297970444
+
+Lookback:204
+Hidden Layers:23
+Stacks:2
+Learning Rate:0.000121
+Epochs:40
+Data Split:0.73
+Error:4159.885298468322
+
+Lookback:142
+Hidden Layers:27
+Stacks:2
+Learning Rate:0.000572
+Epochs:54
+Data Split:0.83
+Error:6595.4084168838335
+
+Lookback:364
+Hidden Layers:1
+Stacks:2
+Learning Rate:0.000954
+Epochs:90
+Data Split:0.85
+Error:7575.863693974316
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:343
+Hidden Layers:17
+Stacks:2
+Learning Rate:0.000424
+Epochs:54
+Data Split:0.94
+Error:7071.929180530906
+
+Lookback:204
+Hidden Layers:23
+Stacks:2
+Learning Rate:0.000584
+Epochs:40
+Data Split:0.72
+Error:9374.79587239936
+
+Lookback:364
+Hidden Layers:28
+Stacks:2
+Learning Rate:0.00056
+Epochs:90
+Data Split:0.76
+Error:6415.552863452434
+
+Lookback:103
+Hidden Layers:28
+Stacks:2
+Learning Rate:0.00056
+Epochs:90
+Data Split:0.87
+Error:13127.80506943509
+
+Lookback:157
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000162
+Epochs:89
+Data Split:0.78
+Error:5863.896703600288
+
+Lookback:364
+Hidden Layers:25
+Stacks:2
+Learning Rate:0.000456
+Epochs:89
+Data Split:0.76
+Error:4761.194128139019
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:74
+Data Split:0.9
+Error:5466.363038485349
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:364
+Hidden Layers:28
+Stacks:2
+Learning Rate:3.6e-05
+Epochs:78
+Data Split:0.76
+Error:6157.681430962607
+
+Lookback:364
+Hidden Layers:28
+Stacks:2
+Learning Rate:0.00056
+Epochs:90
+Data Split:0.7
+Error:3717.4522759545966
+
+Lookback:364
+Hidden Layers:28
+Stacks:2
+Learning Rate:0.00056
+Epochs:56
+Data Split:0.76
+Error:4468.690107543617
+
+Lookback:403
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5865.230950793102
+
+Lookback:381
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.00056
+Epochs:90
+Data Split:0.84
+Error:5789.6457858660815
+
+Lookback:364
+Hidden Layers:4
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.76
+Error:6382.347672850192
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:74
+Data Split:0.88
+Error:6184.439988135919
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:74
+Data Split:0.9
+Error:5382.421451544315
+
+Lookback:447
+Hidden Layers:27
+Stacks:2
+Learning Rate:0.000694
+Epochs:79
+Data Split:0.94
+Error:4815.786124517694
+
+Lookback:447
+Hidden Layers:21
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.87
+Error:3449.9397267705203
+
+Lookback:447
+Hidden Layers:27
+Stacks:2
+Learning Rate:0.000456
+Epochs:89
+Data Split:0.84
+Error:4717.778908980898
+
+Lookback:447
+Hidden Layers:23
+Stacks:2
+Learning Rate:0.000584
+Epochs:55
+Data Split:0.84
+Error:3630.4604021922873
+
+Lookback:381
+Hidden Layers:6
+Stacks:2
+Learning Rate:2.3e-05
+Epochs:41
+Data Split:0.84
+Error:6268.912494648993
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.89
+Error:5330.223686310742
+
+Lookback:447
+Hidden Layers:10
+Stacks:2
+Learning Rate:0.000456
+Epochs:89
+Data Split:0.84
+Error:5111.05752283968
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.84
+Error:5515.439614652507
+
+Lookback:447
+Hidden Layers:27
+Stacks:2
+Learning Rate:0.000584
+Epochs:89
+Data Split:0.91
+Error:4578.243656869158
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000456
+Epochs:74
+Data Split:0.9
+Error:5332.126363659948
+
+Lookback:447
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000456
+Epochs:89
+Data Split:0.9
+Error:6807.362188336998
+
+Lookback:439
+Hidden Layers:27
+Stacks:2
+Learning Rate:0.000584
+Epochs:70
+Data Split:0.84
+Error:3782.2159864736723
+

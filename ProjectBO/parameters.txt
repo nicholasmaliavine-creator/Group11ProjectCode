@@ -1,0 +1,17 @@
+
+Lookback:51
+Hidden Layers:9
+Stacks:2
+Learning Rate:0.000587
+Epochs:62
+Data Split:0.7
+Error:6787.55245260477
+
+Lookback:54
+Hidden Layers:1
+Stacks:2
+Learning Rate:0.000805
+Epochs:41
+Data Split:0.79
+Error:7159.009764988423
+

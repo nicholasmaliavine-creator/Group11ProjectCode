@@ -1,0 +1,99 @@
+
+Lookback:76
+Hidden Layers:22
+Stacks:2
+Learning Rate:0.000594
+Epochs:60
+Data Split:0.78
+Error:6615.690088908151
+
+Lookback:152
+Hidden Layers:20
+Stacks:2
+Learning Rate:0.000475
+Epochs:64
+Batch Size:190
+Data Split:0.79
+Error:6535.5158827177065
+
+Lookback:277
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.00084
+Epochs:69
+Batch Size:254
+Data Split:0.85
+Error:6156.461350091175
+
+Lookback:210
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000642
+Epochs:82
+Batch Size:206
+Data Split:0.85
+Error:5742.350822333172
+
+Lookback:73
+Hidden Layers:7
+Stacks:2
+Learning Rate:0.000234
+Epochs:54
+Batch Size:29
+Data Split:0.89
+Error:5877.897078344897
+
+Lookback:400
+Hidden Layers:6
+Stacks:2
+Learning Rate:0.000645
+Epochs:45
+Batch Size:111
+Data Split:0.71
+Error:6262.927178942859
+
+Lookback:398
+Hidden Layers:4
+Stacks:2
+Learning Rate:0.000191
+Epochs:71
+Batch Size:255
+Data Split:0.75
+Error:6869.015178549141
+
+Lookback:295
+Hidden Layers:17
+Stacks:2
+Learning Rate:0.00034
+Epochs:70
+Batch Size:153
+Data Split:0.87
+Error:5778.171398714632
+
+Lookback:273
+Hidden Layers:21
+Stacks:2
+Learning Rate:0.000662
+Epochs:81
+Batch Size:169
+Data Split:0.93
+Error:9272.986056581214
+
+Lookback:270
+Hidden Layers:22
+Stacks:2
+Learning Rate:0.000689
+Epochs:52
+Batch Size:51
+Data Split:0.9
+Error:5807.0889508869495
+
+Lookback:320
+Hidden Layers:9
+Stacks:2
+Learning Rate:0.000425
+Epochs:98
+Batch Size:42
+Data Split:0.87
+Error:6758.303577675671
+
